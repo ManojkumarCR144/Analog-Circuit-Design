@@ -1,1 +1,11 @@
 # Analog-Circuit-Design
+![Screenshot from 2025-03-05 10-12-45](https://github.com/user-attachments/assets/684920a9-faea-42e8-a1d4-f384c6dab000)
+![Screenshot from 2025-03-05 10-13-10](https://github.com/user-attachments/assets/df1963d7-37e0-4ecb-8151-eeeda29e6afc)
+![Screenshot from 2025-03-05 10-13-17](https://github.com/user-attachments/assets/8b20f0a2-baaa-4f9d-afdd-21c03bf5cf2e)
+![Screenshot from 2025-03-05 10-13-24](https://github.com/user-attachments/assets/8a3f0d55-0a0d-4b51-9b80-d1f1fd803ad1)
+![Screenshot from 2025-03-05 10-13-31](https://github.com/user-attachments/assets/d07136d4-d533-47a2-8868-ae4f5ceadfc0)
+![Screenshot from 2025-03-05 10-13-40](https://github.com/user-attachments/assets/0af77936-ccf2-4937-8dcf-6b496efadf7f)
+![Screenshot from 2025-03-05 10-14-18](https://github.com/user-attachments/assets/cd2cbe13-3a88-4588-8d8c-5c0dea51d130)
+![Screenshot from 2025-03-05 10-14-24](https://github.com/user-attachments/assets/c773abf5-e4ba-45eb-8daf-0d709c7f4eb0)
+![Screenshot from 2025-03-05 10-14-31](https://github.com/user-attachments/assets/eabb8f82-b0c2-40d8-9a6c-df6b75e7fb8a)
+![Screenshot from 2025-03-05 10-14-42](https://github.com/user-attachments/assets/c3d19aff-86ca-4341-bf17-2af79c8fb79b)
